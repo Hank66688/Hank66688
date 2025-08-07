@@ -2,7 +2,7 @@
 
 ### 📊 My LeetCode Stats
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=NDQLo97hN6)](https://leetcode.com/u/NDQLo97hN6/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NDQLo97hN6?theme=light&font=Karla&ext=activity)](https://leetcode.com/u/NDQLo97hN6/)
 
 <!--
 **Hank66688/Hank66688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
